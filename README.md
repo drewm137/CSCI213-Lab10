@@ -12,4 +12,4 @@ which extends the abstract Vehicle class. The Car class contains the following:
 * the equals method
 * a copy method
 
-![Hawaii](IMG_1930.jpg)
+![Hawaii](IMG_1930.JPG)
